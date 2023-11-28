@@ -1,15 +1,15 @@
 # Mind Games Unlimited
 
 ## Description
-Mind Games Unlimited is a collection of different puzzles and mind games that help you think, focus and strengthen the logical and reasoning skills.
+Mind Games Unlimited is a collection of different puzzles and mind games that help you think, focus, and strengthen your logical and reasoning skills.
 
-## The project is in Assembly Language and includes 4 games:
+## The project is in Assembly Language and includes 4 Games:
   - Math Pattern Game
   - Word Guessing Game
   - Pyramid Math Puzzles Game
   - Triangle Math Puzzles Game
 
-<img src="Home.png"  />
+<img src="Home.PNG"  />
 
 ## Explanation video: [Link](https://youtu.be/JELeX1ift40?si=bGSgYDcw_gB375e2)
 
