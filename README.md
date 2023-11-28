@@ -10,8 +10,8 @@ Mind Games Unlimited is a collection of different puzzles and mind games that he
   - Triangle Math Puzzles Game
 
 ## Contributors
-- Mai Elkhodery: [GitHub Profile](https://github.com/maielkhodery)
 - Amira Deaf: [GitHub Profile](https://github.com/AmiraDeef)
+- Mai Elkhodery: [GitHub Profile](https://github.com/maielkhodery)
 - Eman Elhelaly: [GitHub Profile](https://github.com/EmanElhelaly11)
 
 ## Explanation video: [Link](https://youtu.be/JELeX1ift40?si=bGSgYDcw_gB375e2)
