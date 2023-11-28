@@ -9,11 +9,11 @@ Mind Games Unlimited is a collection of different puzzles and mind games that he
   - Pyramid Math Puzzles Game
   - Triangle Math Puzzles Game
 
-<img src="Home.PNG"  />
-
 ## Explanation video: [Link](https://youtu.be/JELeX1ift40?si=bGSgYDcw_gB375e2)
 
 ## Contributors
 - Mai Elkhodery: [GitHub Profile](https://github.com/maielkhodery)
 - Amira Deaf: [GitHub Profile](https://github.com/AmiraDeef)
 - Eman Elhelaly: [GitHub Profile](https://github.com/EmanElhelaly11)
+
+<img src="Home.png"  />
